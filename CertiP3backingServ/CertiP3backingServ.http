@@ -1,4 +1,6 @@
 @CertiP3backingServ_HostAddress = http://localhost:5133
 
+GET {{_77737CertiP2_HostAddress}}/weatherforecast/
+Accept: application/json
 
 ###
